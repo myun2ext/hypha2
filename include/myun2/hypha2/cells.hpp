@@ -1,0 +1,3 @@
+#ifndef __MYUN2_GITHUB__HYPHA2__cells_HPP__
+
+#endif//__MYUN2_GITHUB__HYPHA2__cells_HPP__
